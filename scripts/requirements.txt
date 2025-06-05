@@ -1,0 +1,4 @@
+transformers>=4.41.0
+accelerate>=0.28.0
+torch>=2.2.0
+genson>=1.2.2
